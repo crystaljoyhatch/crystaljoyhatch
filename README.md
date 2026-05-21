@@ -22,6 +22,7 @@ My background is design and product. I think in systems, build under constraints
 | Repo | What it is |
 |---|---|
 | [`personal-health-os`](https://github.com/crystaljoyhatch/personal-health-os) | A three-skill AI system for tracking training, food, and recovery — built in Claude |
+| [`concierge-live-status`](https://github.com/crystaljoyhatch/concierge-live-status) | Live operational dashboard built on top of a platform that couldn't give me what I needed. Reads 11 client trackers in real time via Google Drive MCP |
 
 ---
 
