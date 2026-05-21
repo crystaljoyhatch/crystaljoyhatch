@@ -21,9 +21,7 @@ My background is design and product. I think in systems, build under constraints
 
 | Repo | What it is |
 |---|---|
-| `exec-enrichment-pipeline` | 2,065 exec records enriched and confidence-scored via Google Apps Script + Claude |
-| `concierge-reference-architecture` | The shared MD layer powering multiple agentic workflows — change one file, update the whole system |
-| `ai-systems-portfolio` | How I think about building AI systems under constraint |
+| [`personal-health-os`](https://github.com/crystaljoyhatch/personal-health-os) | A three-skill AI system for tracking training, food, and recovery — built in Claude |
 
 ---
 
