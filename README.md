@@ -23,7 +23,8 @@ My background is design and product. I think in systems, build under constraints
 |---|---|
 | [`personal-health-os`](https://github.com/crystaljoyhatch/personal-health-os) | A three-skill AI system for tracking training, food, and recovery — built in Claude |
 | [`concierge-live-status`](https://github.com/crystaljoyhatch/concierge-live-status) | Live operational dashboard built on top of a platform that couldn't give me what I needed. Reads 11 client trackers in real time via Google Drive MCP |
-| [`persona-builder`](https://github.com/crystaljoyhatch/persona-builder) | A skill that interviews you and builds three MD files teaching Claude who you are, how you work, and how you sound. One conversation, done in under an hour. |
+| [`persona-builder`](https://github.com/crystaljoyhatch/persona-builder) | A skill that interviews you and builds three MD files teaching Claude who you are, how you work, and how you sound. One conversation, done in under an hour |
+| [`doc-formatter`](https://github.com/crystaljoyhatch/doc-formatter) | A Claude skill that turns meeting notes, transcripts, and brain dumps into a styled HTML artifact and Google Doc in one command |
 
 ---
 
